@@ -1,0 +1,11 @@
+For Installation
+=====================
+$ ./configure --prefix=/usr
+$ make
+# make install
+
+
+
+Run Requirements
+=====================
+You should have mplayer installed
